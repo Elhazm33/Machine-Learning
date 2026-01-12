@@ -5,10 +5,10 @@ import numpy as np
 import io
 
 # Configure the Streamlit page
-st.set_page_config(page_title='Data Cleaning Studio', page_icon='🧼', layout='wide')
+st.set_page_config(page_title='Data Cleaning App', page_icon='🧼', layout='wide')
 
 # Page title and description
-st.title('🧼 Professional Data Cleaning Studio')
+st.title('🧼 Data Cleaning App 🧼 ')
 st.write("Upload your dataset and clean it using the tools below.")
 
 # File uploader section
